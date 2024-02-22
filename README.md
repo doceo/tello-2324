@@ -30,3 +30,6 @@ Coreografia: Fabrizio Perretti, Ciro Solito.
 
 Programmazione: Fabio Iannaccone, Francesco Corcione.
 
+# Test
+
+![IMG20240222124804](https://github.com/doceo/tello-2324/assets/159051434/678ada83-4d1b-46cd-8395-0d7f42bb20aa)
