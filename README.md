@@ -9,11 +9,12 @@ https://tellopilots.com/threads/let-the-swarm-begin.3452/
 ## Obiettivo 
 Alla fine di questo percorso, vogliamo completare la programmazione di uno sciame di droni che dovrà eseguire una coerografia.
 
+## Strumenti e metodi 
+Normalmente il drone fa da router ed il pc ci si collega eseguendo poi il codice. Per far si che più droni possano eseguire degli script e quindi dar il via ad una coreografia, essi devono collegarsi ad un access point che gli assegnerà un ip. Tramite il linguaggio di programmazione "python", i droni verrano messi in comunicazione tra di loro modo tale da far funzionare lo stesso script su diversi dispositivi senza la necessità di dover scaricare programmi esterni.
+
 ## Programmazione 
 "Dopo aver ricevuto una spiegazione dai programmatori, qui verranno aggiunte le informazioni e spiegazioni sul loro lavoro".
 
-## Sviluppo
-Normalmente il drone fa da router ed il pc ci si collega eseguendo poi il codice. Per far si che più droni possano eseguire degli script e quindi dar il via ad una coreografia, essi devono collegarsi ad un access point che gli assegnerà un ip. Tramite il linguaggio di programmazione "python", i droni verrano messi in comunicazione tra di loro modo tale da far funzionare lo stesso script su diversi dispositivi senza la necessità di dover scaricare programmi esterni.
 
 # Team
 
@@ -29,3 +30,6 @@ Coreografia: Fabrizio Perretti, Ciro Solito.
 
 Programmazione: Fabio Iannaccone, Francesco Corcione.
 
+# Test
+
+![IMG20240222124804](https://github.com/doceo/tello-2324/assets/159051434/678ada83-4d1b-46cd-8395-0d7f42bb20aa)
